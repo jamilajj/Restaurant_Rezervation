@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+p{
+    font-style: initial;
+    user-select: none;
+    font-size: larger;
+    color: rgb(33, 35, 124);
+}
